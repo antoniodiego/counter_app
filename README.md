@@ -1,2 +1,2 @@
 # counter_app
-Aplicação Flutter feita na NLW
+Aplicação Flutter de um contador simples
